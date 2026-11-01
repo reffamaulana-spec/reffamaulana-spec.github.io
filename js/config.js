@@ -5,8 +5,8 @@ window.PORTFOLIO_CONFIG = {
     linkedin: "https://www.linkedin.com/in/reffa-fabyan-maulana-48061840a",
     instagram: "https://www.instagram.com/reffafbyn",
     strava: "https://www.strava.com/athletes/11693257",
-    projectPortfolioGithub: "",
-    projectPortfolioDemo: "",
+    projectPortfolioGithub: "https://github.com/reffamaulana-spec/reffamaulana-spec.github.io",
+    projectPortfolioDemo: "https://reffafabyanmaulana.my.id",
     project2Github:
       "https://github.com/reffamaulana-spec/portal_sekolah_sevenpunya",
     project2Demo: "https://sevenpunya.rf.gd",
